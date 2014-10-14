@@ -1,1 +1,10 @@
-/* Empty. Add your own CSS if you like */
+
+.display {
+  font-size:30px;
+  text-align: right;
+  margin: 10px;
+}
+
+.button {
+  background-color: #e0e4e2
+}
